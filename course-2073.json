@@ -19,12 +19,17 @@
       "points": "15/15",
       "score": 100,
       "commit": "84e6723f2576b4451aac5cc134fee52d7ff05d36"
+    },
+    "ch8": {
+      "points": "25/25",
+      "score": 100,
+      "commit": "a98a980ad6dfea63d739b4b21e6042f0dc11afec"
     }
   },
-  "score": 300,
+  "score": 400,
   "upload": {
-    "status": "accepted",
-    "runId": "42230441013",
+    "status": "pending",
+    "runId": "42230440803",
     "runAttempt": "1"
   }
 }
